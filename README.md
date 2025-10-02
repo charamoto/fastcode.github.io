@@ -1,1 +1,1 @@
-# fastcode.cl
+# charamoto.github.io/fastcode.cl
